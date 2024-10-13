@@ -7,11 +7,12 @@ body{
     height: 100vh;
     width: 100%;
     background-image: url(./planet-earth-globe-surrounded-by-vegetation-nature.jpg);
-    /* background: rgba(0, 0, 0, 0.851); */
+    background-size: cover;
+    background-position: center;
 }
 .main{
     height: 80vh;
-    width: 33%;
+    width: 40%;
     border: 2px solid white;
     border-radius: 20px;
     margin:5% auto;
