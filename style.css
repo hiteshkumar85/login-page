@@ -23,7 +23,7 @@ body{
 }
 .main{
     width: 420px;
-    background-color: aqua;
+    background-color:coral;
     color: #000;
 }
 .main  .input_container{
